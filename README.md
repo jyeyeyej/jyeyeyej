@@ -14,12 +14,6 @@
 - 기능을 만드는 데서 그치지 않고, 사용자가 이해하기 쉬운 서비스로 연결하는 과정에 관심이 있습니다.
 - 팀 프로젝트에서는 기획 정리, 일정 관리, 문서화와 원활한 협업을 중요하게 생각합니다.
 
-## 📌 Projects & Learning
-
-- [agent_0821](https://github.com/jyeyeyej/agent_0821) — LLM의 Tool 선택·실행과 Agent Loop를 구현한 팀 미니 프로젝트
-- [mini_agent](https://github.com/jyeyeyej/mini_agent) — LLM, RAG, Memory, LangGraph, Human Approval을 단계별로 학습한 AI Agent 실습
-- [mini_frontend_login_db](https://github.com/jyeyeyej/mini_frontend_login_db) — Streamlit·FastAPI·DB를 연결한 로그인 및 회원 관리 실습
-
 프로젝트 구현 과정과 학습 기록을 꾸준히 정리하며,  
 **콘텐츠를 이해하고 사용자 관점에서 서비스를 설계할 수 있는 AI 개발자**로 성장하고 있습니다.
 
