@@ -7,8 +7,6 @@
 
 ---
 
-## 🙋‍♀️ About Me
-
 ## 👋 About Me
 
 **문제를 정의하고, 구조를 설계하고, 실행까지 책임지는 기획자입니다.**
@@ -38,6 +36,8 @@ Research → Writer → Reviewer 구조의 멀티에이전트 워크플로우
 ### ☁️ AI Service Deployment
 Docker · AWS EC2 · CI/CD 기반 AI 서비스 배포 실습
 `Docker` `GitHub Actions` `AWS EC2`
+
+---
 
 ## 🛠 Tech Stack
 
