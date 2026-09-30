@@ -9,15 +9,35 @@
 
 ## 🙋‍♀️ About Me
 
-- 콘텐츠·SNS 채널 운영과 프로젝트 관리 경험이 있습니다.
-- 현재 **Python, FastAPI, 데이터베이스, Streamlit, LLM·AI Agent**를 공부하고 있습니다.
-- 기능을 만드는 데서 그치지 않고, 사용자가 이해하기 쉬운 서비스로 연결하는 과정에 관심이 있습니다.
-- 팀 프로젝트에서는 기획 정리, 일정 관리, 문서화와 원활한 협업을 중요하게 생각합니다.
+## 👋 About Me
 
-프로젝트 구현 과정과 학습 기록을 꾸준히 정리하며,  
-**콘텐츠를 이해하고 사용자 관점에서 서비스를 설계할 수 있는 AI 개발자**로 성장하고 있습니다.
+**문제를 정의하고, 구조를 설계하고, 실행까지 책임지는 기획자입니다.**
+
+콘텐츠·서비스 기획뿐 아니라  
+프로젝트 PM으로 일정, 협업, 리스크, 산출물, 성과까지  
+전체 과정을 총괄한 경험이 있습니다.
+
+현재는 AI 서비스 기획 역량을 확장하기 위해  
+LLM, RAG, Multi-Agent와 백엔드 구조를 직접 학습하고 구현하며  
+기획과 개발 사이의 간극을 줄이고 있습니다.
+
+> 기획만 하지 않고, 실제로 작동하는 구조까지 이해합니다.
 
 ---
+
+## 🚀 Featured Projects
+
+### 👶 AI Baby Care Assistant
+영유아 보호자를 위한 AI 육아 도우미
+`FastAPI` `PostgreSQL` `Redis` `RAG` `OpenAI` `MCP`
+
+### 🤖 Multi-Agent Orchestration
+Research → Writer → Reviewer 구조의 멀티에이전트 워크플로우
+`Python` `FastAPI` `LLM` `Agent` `Docker`
+
+### ☁️ AI Service Deployment
+Docker · AWS EC2 · CI/CD 기반 AI 서비스 배포 실습
+`Docker` `GitHub Actions` `AWS EC2`
 
 ## 🛠 Tech Stack
 
